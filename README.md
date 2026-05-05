@@ -1,5 +1,6 @@
 
-## The "Fatty" Runner: Pre-Installed Tools for Speed
+## ![Runnger](pages/public/img/icon_192x192.png) Runner
+* Pre-Installed Tools for Speed
 
 This setup allows you to define a dedicated Docker container, the "runner," that executes specific scripts *after* your other essential services (like databases or web applications) have started and are ready. This is invaluable for tasks such as:
 
