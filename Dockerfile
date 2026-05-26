@@ -24,7 +24,8 @@ RUN apt-get update -y && apt-get install -y \
   git \
   nodejs \
   npm \
-  tree
+  tree \
+  pipx 
 
 
 CMD ["echo", "Hello Runner..."]
