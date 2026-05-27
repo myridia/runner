@@ -25,6 +25,7 @@ RUN apt-get update -y && apt-get install -y \
   nodejs \
   npm \
   tree \
+  python3-pip \  
   pipx 
 
 
