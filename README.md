@@ -1,3 +1,4 @@
+<img src="runner.svg" alt="runner" width="120">
 
 ## ![Runnger](pages/public/img/icon_192x192.png) Runner
 * Pre-Installed Tools for Speed
